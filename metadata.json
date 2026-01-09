@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Nifty 50 Predictor Pro",
+  "description": "An advanced AI-powered Nifty 50 market analysis tool that provides real-time predictions, technical analysis, and option strategies in Hindi using live NSE data and chart recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
